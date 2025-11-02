@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server implementation in pure Node.js that provides a fun tool to generate random US State and signature soup combinations.
 
+<a href="https://glama.ai/mcp/servers/@gbti-network/mcp-basic-test">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@gbti-network/mcp-basic-test/badge" alt="Super Secret Server MCP server" />
+</a>
+
 ## Features
 
 - Pure Node.js implementation
